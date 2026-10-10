@@ -1,5 +1,3 @@
-## Hi there 👋
-# 👋 Hi, I'm Swapnesh Kumar!
 
 ### 💻 Computer Science Student | Aspiring Developer
 
